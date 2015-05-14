@@ -33,7 +33,7 @@ HOST="root@cloud.yoursite.com"
 print '\n'
 print (red('This is probally illegal. Dont Be Stupid.'))
 print '\n'
-print 'Scanning ' + my_ip  + ' with namp from ' + HOST
+print 'Scanning ' + my_ip  + ' with nmap from ' + HOST
 print '\n'
 
 COMMAND="nmap -F -sV --open %s" % my_ip 
