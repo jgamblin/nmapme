@@ -27,7 +27,7 @@ def blue(text):
     return color(text, 34)
 
 
-my_ip = urlopen('http://ip.42.pl/raw').read()
+my_ip = urlopen('http://icanhazip.com').read()
 HOST="root@cloud.yoursite.com"
 
 print '\n'
