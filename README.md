@@ -3,7 +3,14 @@ A python script to scan your public IP address from a remote SSH host.
 
 #Usage
 python nmapme.py
-change "host=" to your remote ssh host. 
+
+change "host=" to your remote ssh host
+
+You will also need to add:
+
+username ALL = NOPASSWD: /usr/bin/nmap
+
+to /etc/sudoers (unless you are way smarter than me and can fix this.) 
 
 #NMAP Command
 I am rumming map -F -sV --open (Your public IP).  
