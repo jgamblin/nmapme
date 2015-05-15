@@ -12,10 +12,6 @@ username ALL = NOPASSWD: /usr/bin/nmap
 
 to /etc/sudoers (unless you are way smarter than me and can fix this.) 
 
-#NMAP Command
-I am rumming map -F -sV --open (Your public IP).  
-Change it to fit your needs. 
-
 #ScreenShot 
 
 ![Screenshot](http://static.ow.ly/photos/original/aO809.png)
