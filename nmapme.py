@@ -4,7 +4,7 @@
 # By:       Jerry Gamblin
 # Date:     15.05.15
 # Modified  15.05.15
-# Rev Level 0.5
+# Rev Level 0.7
 # -----------------------------------------------
 
 import urllib2
