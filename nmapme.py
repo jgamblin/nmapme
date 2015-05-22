@@ -2,7 +2,7 @@
 # Name:     nmapme
 # Purpose:  Python to scan your public IP wihth NMAP 
 # By:       Jerry Gamblin
-# Date:     13.05.15
+# Date:     15.05.15
 # Modified  15.05.15
 # Rev Level 0.5
 # -----------------------------------------------
