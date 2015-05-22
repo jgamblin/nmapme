@@ -17,4 +17,4 @@ to /etc/sudoers (unless you are way smarter than me and can fix this.)
 ![Screenshot](http://static.ow.ly/photos/original/aO809.png)
 
 #Important Notice
-I dont know what I am doing. This could be illegal in your country.
+I dont know what I am doing. This could be illegal in your country (maybe?). 
